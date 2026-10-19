@@ -117,7 +117,7 @@ Make sure the following tools are installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/logging-monitoring-mern.git
+git clone https://github.com/ajinkya029/logging-monitoring.git
 cd logging-monitoring
 ```
 
